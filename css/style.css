@@ -1,0 +1,144 @@
+body{
+    background-color: #E4E4D0;
+    margin: 0%;
+    padding: 0%;
+}
+
+.body{
+    color: #435334;
+    border: 5px solid;
+}
+
+.topborder{
+    color: black;
+    border-bottom: 2px solid;
+}
+
+.top{
+    color: black;
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding-top: 20px;
+    
+}
+
+.insidetop{
+    font-size: 15px;
+    font-weight: 200;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.Pic{
+    border: 2px solid black;
+}
+
+
+.address{
+    color: black;
+    display: inline-block;
+    padding-left: 20px;
+    width: 50%;
+}
+
+#second{
+    border-bottom: 2px solid;   
+}
+
+.project{
+    display: inline-block;
+    position: absolute;
+    color: black; 
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 2px solid;
+}
+
+.contact{
+    color: rgb(0, 0, 0);
+    position: static;
+    display: inline-block;
+    padding-left: 20px;
+    width: 50%;
+    border-bottom: 2px solid;
+}
+
+.education{
+    color: black;
+    display: inline-block;
+    position: static;
+    width: 50%;
+    padding-left: 20px;
+    border-right: 2px solid;
+}
+
+.border{
+    color: black;
+    border-bottom: 2px solid;
+}
+
+.skills{
+    color: black;
+    display: inline-block;
+    position: static;
+    width: 50%;
+    padding-left: 20px;
+    border-right: 2px solid;
+}
+
+.certificates{
+    color: black;
+    display: inline-block;
+    position: absolute;
+    padding-left: 20px;
+    width: 50%;
+    text-decoration: none;
+}
+.certificates,ul,li,a{
+    text-decoration: none;
+}
+
+.links,a{
+    color: black;
+}
+
+.tc{
+    color: black;
+    border-bottom: 2px solid;
+}
+
+.language{
+    color: black;
+    display: inline-block;
+    position: static;
+    padding-left: 20px;
+    width: 50%;
+    clear: right;
+    border-right: 2px solid;
+}
+
+/*.footer>a{
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: large;
+    background-color:#E4E4D0;
+    position: fixed;
+    top: 10%;
+    width: 20%;
+    border: 2px solid black;
+    text-decoration: none;
+}
+
+.footer a:hover{
+    background-color: rgb(255, 255, 255);
+}*/
+
+
+
+
+
+
+
+
